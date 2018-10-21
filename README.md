@@ -1,4 +1,4 @@
-# sentimentTwitterAnalysis
+# sentiment-twitter-analysis
 Python Sentiment Twitter Analysis
 
 Language = Python 
